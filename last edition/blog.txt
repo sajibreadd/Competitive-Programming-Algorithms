@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/Derangement
+https://en.wikipedia.org/wiki/Stirling_numbers_of_the_first_kind
+https://discuss.codechef.com/t/jadugar2-editorial/18447
+https://www.quora.com/What-is-divide-and-conquer-optimization-in-dynamic-programming
+https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind
+https://discuss.codechef.com/t/amr14h-editorial/9391
+https://discuss.codechef.com/t/funfun-editorial/18325
+https://en.wikipedia.org/wiki/Catalan_number
